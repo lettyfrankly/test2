@@ -1,2 +1,2 @@
-# test2
+# Studing dithub
 Day #2
